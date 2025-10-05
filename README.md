@@ -143,7 +143,7 @@ To run the analysis, you will need Python 3 and the following libraries.
 
 ```
 .
-├── DA5401_A5_Notebook.ipynb    # The main Jupyter Notebook with all code and analysis.
+├── da25e003_Assignment_5.ipynb    # The main Jupyter Notebook with all code and analysis.
 ├── yeast.arff                  # The dataset file (must be downloaded).
 ├── README.md                   # This file.
 └── .gitgnore         

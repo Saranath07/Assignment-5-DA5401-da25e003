@@ -1,0 +1,26 @@
+# ===================================================================
+# Required Python packages for the DA5401 Assignment 5
+# To install, run: pip install -r requirements.txt
+# ===================================================================
+
+# --- Core Data Science Libraries ---
+# For numerical operations and array manipulation
+numpy~=1.26.0
+# For data manipulation and analysis (DataFrames)
+pandas~=2.2.0
+# For scientific computing, specifically for loading .arff files
+scipy~=1.12.0
+
+# --- Machine Learning Library ---
+# The primary library for ML models, preprocessing, and metrics
+scikit-learn~=1.4.0
+
+# --- Visualization Libraries ---
+# The fundamental plotting library for Python
+matplotlib~=3.8.0
+# For creating enhanced and statistically-aware visualizations
+seaborn~=0.13.0
+
+# --- Notebook Environment ---
+# For running the Jupyter Notebook itself
+jupyterlab~=4.1.0
